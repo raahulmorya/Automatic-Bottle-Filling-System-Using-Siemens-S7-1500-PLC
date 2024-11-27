@@ -26,3 +26,7 @@
 | %Q4.2               | Conveyor System  |
 | %Q4.3               | Solenoid Valve   |
 
+
+You can also simulate this free on https://app.plcsimulator.online/  to learn.
+Variable parameters Screenshots attached for simulation
+
