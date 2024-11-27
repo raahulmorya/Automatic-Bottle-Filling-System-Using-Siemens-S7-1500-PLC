@@ -2,12 +2,13 @@
  
 ## Siemens PLC info and Configuration:
 
-## PLC Model name: SIMATIC S7-1500
-## CPU: 1512C-1PN 
+### PLC Model name: SIMATIC S7-1500
+### CPU: 1512C-1PN 
 
-Software Used: TIA Portal
+### Software Used:
+#### TIA Portal
 
-##I/O port Connection
+## I/O port Connection
 
 |---------------------|------------------|
 | Input Port address  | Comments         |
